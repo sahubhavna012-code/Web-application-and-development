@@ -1,0 +1,23 @@
+h1{
+    background-color: brown;
+    height: 50px;
+    width: 200px;
+    padding:10px 10px 10px 70px;
+    /* goes from top to right to bottom to left */
+    /* border:10px solid black ; */
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    border-radius: 20px;
+    margin: 2px 2px 2px 150px;
+}
+#first{
+    background-color: aquamarine;
+    padding: 5px;
+    border: 2px solid black;
+}
+p{
+    background-color: yellow;
+    padding: 5px;
+    border: 2px solid black;
+
+}

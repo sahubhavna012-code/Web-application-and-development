@@ -1,0 +1,60 @@
+/* 1.Using element selector or tag selector
+h1{
+    background-color: hsla(248, 39%, 39%, 0.771);
+}
+ul{
+    background-color: bisque;
+}
+h2{
+    background-color: aquamarine;
+} */
+
+/* 2.Using id base selection */
+/* #first{
+    background-color: brown;
+}
+#second{
+    background-color: lightseagreen;
+} */
+
+/* 3.class based selection 
+class-used for grouping*/
+/* 
+.third{
+    background-color: rgb(128, 66, 22);
+} */
+
+/* 4.Group based selector */
+/* h1,.second,#first{
+    background-color: plum;
+} */
+
+/* h1{
+    background-color: aquamarine;
+}
+h2{
+    background-color: hsla(110, 50%, 50%,0.5);
+}
+ul{
+    background-color: #345678;
+} */
+
+/* font */
+h1{
+    font-size: 80px;
+}
+html{
+    font-size: 16px;
+}
+li{
+    font-size: 2em;
+}
+/* h2{
+    font-size: 3rem;
+} */
+ h2{
+    font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+ }
+

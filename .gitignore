@@ -1,0 +1,15 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE Folders
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Media / Big binaries
+*.mp3
+*.mp4
+*.wav
