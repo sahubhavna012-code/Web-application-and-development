@@ -1,0 +1,22 @@
+#container{
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    position:relative;
+}
+#blue{
+    height: 100px;
+    width: 300px;
+    background-color: navy;
+    position:absolute;
+    top: 50px;
+}
+#white{
+    height: 90px;
+    width: 90px;
+    background-color: white;
+    border-radius: 50%;
+    position:absolute;
+    left: 100px;
+    top: 5px;
+}

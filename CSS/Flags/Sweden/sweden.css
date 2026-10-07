@@ -1,0 +1,28 @@
+#white{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    position: relative;
+}
+#blue{
+    height:100px;
+    width:200px;
+    background-color: rgb(12, 65, 189);
+    position: absolute;
+    left:50px;
+    top:50px;
+}
+#Yellow{
+    height: 100px;
+    width: 20px;
+    background-color: yellow;
+    position:absolute;
+    left:50px;
+}
+#Yellow1{
+    height:20px;
+    width: 200px;
+    background-color: yellow;
+    position:absolute;
+    top:40px;
+}

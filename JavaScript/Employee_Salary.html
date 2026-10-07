@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let salary=Number(prompt("Enter Basic Salary:"));
+        let HRA=salary*0.05;
+        let DA=salary*0.05;
+        let TA=salary*0.05;
+        let Gross_Salary=salary+HRA+DA+TA;
+        let pf=salary*0.03;
+        let Net_Salary=Gross_Salary-pf;
+        document.write("Net Salary= "+Net_Salary);
+    </script>
+</body>
+</html>
