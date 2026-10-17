@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-size: 20px;
+}
+body{
+    background-color: black;
+}
+.container{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 200px 200px;
+    gap:5px;
+    padding:5px;
+}
+.first{
+    background-color: aquamarine;
+}
+.second{
+    background-color: blueviolet;
+}
+.third{
+    background-color: brown;
+}
+.fourth{
+    background-color: bisque;
+}

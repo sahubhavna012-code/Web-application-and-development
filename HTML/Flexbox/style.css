@@ -1,0 +1,27 @@
+.container{
+    background-color: antiquewhite;
+    display:flex;
+    flex-direction: row;
+    height: 500px;
+    /* justify-content: center;
+    align-items: center; */
+    flex-wrap: wrap;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    margin: 5px; 
+}
+.first{
+    background-color: orange;
+    flex-grow: 1;
+}
+.second{
+    background-color: green;
+}
+.third{
+    background-color: red;
+}
+.fourth{
+    background-color: greenyellow;
+}
