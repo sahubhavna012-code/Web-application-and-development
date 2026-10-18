@@ -1,0 +1,8 @@
+
+.container {
+    height: 50vh;
+    width: 50vh;
+    background-color: rgb(182, 24, 24);
+    box-shadow: 10px 10px 5px blue;
+}
+/* offset-x offset-y blur spread-radius */
